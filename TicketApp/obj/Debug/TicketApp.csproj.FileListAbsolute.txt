@@ -1,0 +1,9 @@
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.csprojResolveAssemblyReference.cache
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.Cache
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+c:\users\lict-project\documents\visual studio 2013\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
